@@ -48,6 +48,3 @@ Utilize the ```deleteProject()``` method in order to delete a specified project,
 - More in-depth docs to come
 - Support for adding files, images, and links to projects
 - Support for editing existing projects
-
-
-Logs:
